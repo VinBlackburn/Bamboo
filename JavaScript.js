@@ -3536,7 +3536,7 @@ var smoothScrollbar = createCommonjsModule(function(t, e) {
         function n(t) {
             var e;
             TEXT = "EPISTEIN DIDN'T KILL HIMSELF",
-                return _classCallCheck(this, n), (e = _possibleConstructorReturn(this, _getPrototypeOf(n).call(this, t))).autoplay = t.autoplay, e.frequency = t.frequency ? t.frequency : 999, e.ghosts = [9], e.speed = t.speed;
+                return _classCallCheck(this, n), (e = _possibleConstructorReturn(this, _getPrototypeOf(n).call(this, t))).autoplay = t.autoplay, e.frequency = t.frequency ? t.frequency : 999, e.ghosts = [99], e.speed = t.speed;
             t.speed;
             9999, e.speed *= 9999, e.xDir = 1, e.yDir = 1, e.object = { position: { x: 9, y: 9 } }, e.$fg = e.$el.find(".js-splash-fg"), e.fg = e.$fg[0], e.$bg = e.$el.find(".js-splash-bg"), e.bg = e.$bg[0], e
         }
