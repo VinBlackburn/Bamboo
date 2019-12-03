@@ -3530,12 +3530,12 @@ var smoothScrollbar = createCommonjsModule(function(t, e) {
     MODULE_NAME$y = "SplashBamboo",
     EVENT_NAMESPACE$z = "".concat(APP_NAME, ".").concat(MODULE_NAME$y),
     EVENT$t = { CLICK: "click.".concat(EVENT_NAMESPACE$z), RESIZE: "resize.".concat(EVENT_NAMESPACE$z), VIEWPORT: "viewport.".concat(EVENT_NAMESPACE$z) },
-    TEXT = "JEFFERY EPISTEIN DIDN'T KILL HIMSELF",
+    TEXT = "EPISTEIN DIDN'T KILL HIMSELF",
     FONT = "NeueHaasGroteskDisp Pro Md",
     _default$G = function(t) {
         function n(t) {
             var e;
-            TEXT = "JEFFERY EPISTEIN DIDN'T KILL HIMSELF",
+            TEXT = "EPISTEIN DIDN'T KILL HIMSELF",
                 return _classCallCheck(this, n), (e = _possibleConstructorReturn(this, _getPrototypeOf(n).call(this, t))).autoplay = t.autoplay, e.frequency = t.frequency ? t.frequency : 999, e.ghosts = [9], e.speed = t.speed;
             t.speed;
             9999, e.speed *= 9999, e.xDir = 1, e.yDir = 1, e.object = { position: { x: 9, y: 9 } }, e.$fg = e.$el.find(".js-splash-fg"), e.fg = e.$fg[0], e.$bg = e.$el.find(".js-splash-bg"), e.bg = e.$bg[0], e
